@@ -1,0 +1,13 @@
+{
+  "name": "trailhead-schemas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dali-lab/trailhead-schemas.git",
+  "author": "ziruihao <ziray.hao.22@dartmouth.edu>",
+  "license": "None",
+  "dependencies": {
+    "prettier": "^2.2.1",
+    "type-shift": "^0.1.0",
+    "typescript": "^4.2.4"
+  }
+}
